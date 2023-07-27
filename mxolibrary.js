@@ -7,7 +7,7 @@
 // @match        https://pixelplace.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=pixelplace.io
 // @grant        unsafeWindow
-// @require      https://greasyfork.org/scripts/462620-mxobot-example-bot/code/MxoBot%20Example%20Bot.js
+// @require      https://raw.githubusercontent.com/Aztilux/mxoantilog/main/examplebot.js
 
 /* globals unsafeWindow*/
 /*jshint esversion: 11 */
